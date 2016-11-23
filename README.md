@@ -2,3 +2,6 @@
 
 An simple temperature converter app for Android.
 
+## Play Store link :
+
+[https://play.google.com/store/apps/details?id=com.doignon.sylvain.temperatureconvertor](https://play.google.com/store/apps/details?id=com.doignon.sylvain.temperatureconvertor)
